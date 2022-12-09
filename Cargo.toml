@@ -10,7 +10,7 @@ edition = "2021"
 
 [dependencies]
 libc = "0.2"
-nix = "0.25"
+nix = "0.26"
 uinput-sys = "0.1"
 custom_derive = "0.1"
 enum_derive = "0.1"
